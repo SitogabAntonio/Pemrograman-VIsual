@@ -1,4 +1,4 @@
-# [Pemrograman Prosedural]-Programming-Tasks
+# [Pemrograman Visual]-Programming-Tasks
 In the First semester, Information Systems students take a visual programming course using Flowgorithm, where this course aims to train students' reasoning power in finding solutions to problems in algorithms
 
 ## `Weekly Programming Tasks`
